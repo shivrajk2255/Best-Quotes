@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BestQuotes</string>
+
+    <string name="truthquote">Truth Quotes</string>
+    <string name="quote">Stay Hungry, Stay Foolish</string>
+    <string name="steve_jobs">Steve Jobs</string>
+    <string name="share_option">Share Option</string>
+    <string name="todo">TODO</string>
+</resources>
